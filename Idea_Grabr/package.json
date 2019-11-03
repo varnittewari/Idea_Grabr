@@ -1,0 +1,9 @@
+{
+  "name": "idea_grabr",
+  "version": "0.0.0",
+  "description": "Idea_Grabr",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
